@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PruebasUnitarias"
+    }
+  },
+  "defaultProject": "PruebasUnitarias",
+  "cli": {
+    "analytics": false
+  }
 }
